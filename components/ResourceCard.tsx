@@ -11,7 +11,6 @@ interface Props {
 }
 
 const ResourceCard = ({
-  id,
   title,
   image,
   downloadNumber,
