@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import Filters from "@/components/Filters";
 import Header from "@/components/Header";
 import ResourceCard from "@/components/ResourceCard";
